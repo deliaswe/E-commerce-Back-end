@@ -21,6 +21,7 @@
 - https://github.com/deliaswe/E-commerce-Back-end
 
 ## Usage
+https://github.com/deliaswe/E-commerce-Back-end/assets/113808453/4ef32272-e55e-4d41-8087-d17b66352fee
 
 
 
@@ -61,7 +62,7 @@ Delia Young
     npm run seed 
 
 - To start the server:
-    node server 
+    node start
 
 ## Questions
 * GitHub: Deliaswe
